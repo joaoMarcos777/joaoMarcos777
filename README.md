@@ -39,15 +39,15 @@
 
 <br><br>
 
-## GitHub Analytics
+<!-- ## GitHub Analytics
 
 <p align="left">
 <img width="400em" src="https://github-readme-stats.vercel.app/api?username=joaoMarcos777&show_icons=true&theme=midnight-purple" alt="joaoMarcos777's stats"/>
 <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoMarcos777&layout=compact&theme=midnight-purple" alt="joaoMarcos777's most languages"/>
-</p>
+</p>-->
 
 
-<br><br>
+
 
 ## Contact
 
