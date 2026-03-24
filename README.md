@@ -5,15 +5,13 @@
 - 🏬 &nbsp; Front End Developer at Framework Digital
 - 🔭 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Bachelor's degree in Information Systems at <a ref="https://www.cotemig.com.br/ensino/faculdade-cotemig">Faculdade COTEMIG</a>.
-- 🌱 &nbsp; Learning more about React.
+<!--- 🌱 &nbsp; Learning more about React.-->
 
 <h3> :rocket: &nbsp;Skills </h3>
 
 **Technologies**
 
-  [![My Skills](https://skillicons.dev/icons?i=angular,react,typescript,html,css)](https://skillicons.dev)
-
-  `nodejs,js`
+  [![My Skills](https://skillicons.dev/icons?i=angular,react,js,typescript,html,css)](https://skillicons.dev)
   
 **DevOps**
 
