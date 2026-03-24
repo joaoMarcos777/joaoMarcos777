@@ -13,13 +13,13 @@
 
   [![My Skills](https://skillicons.dev/icons?i=angular,react,js,typescript,html,css)](https://skillicons.dev)
   
-**DevOps**
+<!--**DevOps**
 
 [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
   
 **Tools**
 
-[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)-->
   <br/>
 <br/>
 <h3> :earth_americas: &nbsp;Where to find me: </h3> 
