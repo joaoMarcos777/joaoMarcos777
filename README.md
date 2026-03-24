@@ -11,7 +11,9 @@
 
 **Technologies**
 
-  [![My Skills](https://skillicons.dev/icons?i=react,angular,nodejs,js,typescript,mysql,html,css)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=angular,react,typescript,html,css)](https://skillicons.dev)
+
+  `nodejs,js`
   
 **DevOps**
 
